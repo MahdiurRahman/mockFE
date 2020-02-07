@@ -2,7 +2,6 @@ import axios from 'axios';
 
 const TAG = "ACTIONS/INDEX_JS";
 
-// const dev_api = 'http://localhost:5000/api';
 const prod_api = 'https://mock-me-backend.herokuapp.com/api';
 
 // login
