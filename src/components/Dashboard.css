@@ -1,0 +1,12 @@
+.dashboard {
+    display: flex;
+    align-content: space-between;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 60px;
+}
+
+.button {
+    right: 0;
+    top: 0;
+}

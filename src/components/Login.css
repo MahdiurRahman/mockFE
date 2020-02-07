@@ -1,0 +1,12 @@
+.login-container {
+  display: flex;
+}
+.login-card {
+  margin: 20vh;
+  box-shadow: 1px 1px rgba(50, 50, 50, 0.2);
+  width: 500px;
+}
+
+.text-red {
+  color: red;
+}
